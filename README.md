@@ -21,10 +21,10 @@
 ├── README.md
 ├── 문제이름1/
 │ ├── 문제이름1.py
-│ ├── 문제이름1.md # 풀이 설명
+│ ├── README.md # 풀이 설명
 ├── 문제이름2/
 │ ├── 문제이름2.py
-│ ├── 문제이름2.md
+│ ├── README.md
 └── ...
 ```
 
@@ -42,7 +42,7 @@
 .
 ├── 문제이름/
 │ ├── 문제이름.py
-│ └── 문제이름.md # 풀이 설명
+│ └── README.md # 풀이 설명
 ```
 
 의 폴더 구조를 생성할 수 있습니다.
@@ -54,6 +54,5 @@
 ## 사용 언어
 
 - 파이썬
-- SQL
 
 [1]: https://school.programmers.co.kr/learn/challenges?order=recent

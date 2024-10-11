@@ -1,3 +1,4 @@
 def solution(a, b):
-    a, b = str(a), str(b)
-    return max(int(a + b), int(b + a))
+    str_a = str(a)
+    str_b = str(b)
+    return max(int(str_a + str_b), int(str_b + str_a))

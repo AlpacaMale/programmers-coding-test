@@ -1,2 +1,2 @@
 def solution(num_list, n):
-    return (n in num_list) / 1
+    return 1 if n in num_list else 0

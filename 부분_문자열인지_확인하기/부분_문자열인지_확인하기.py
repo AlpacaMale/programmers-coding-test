@@ -1,2 +1,2 @@
 def solution(my_string, target):
-    return (target in my_string) / 1
+    return 1 if target in my_string else 0
