@@ -9,6 +9,7 @@
 - 폴더 생성 스크립트
 - 문제 풀이
 - 사용 언어
+- 날짜 포멧
 
 ## 소개
 
@@ -54,5 +55,9 @@
 ## 사용 언어
 
 - 파이썬
+
+## 날짜 포멧
+
+커밋 메시지에 사용되는 날짜 포멧은 MM/DD/YYYY 입니다.
 
 [1]: https://school.programmers.co.kr/learn/challenges?order=recent
