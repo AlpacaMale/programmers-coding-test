@@ -18,15 +18,15 @@
 ## 폴더 구조
 
 ```
-.
-├── README.md
-├── 문제이름1/
-│ ├── 문제이름1.py
-│ ├── README.md # 풀이 설명
-├── 문제이름2/
-│ ├── 문제이름2.py
-│ ├── README.md
-└── ...
+├── YYYY-MM-DD/
+│   ├── README.md
+│   ├── 문제이름1/
+│   │   ├── 문제이름1.py
+│   │   ├── README.md
+│   ├── 문제이름2/
+│   │   ├── 문제이름2.py
+│   │   ├── README.md
+│   └── ...
 ```
 
 ## 폴더 생성 스크립트
@@ -58,6 +58,6 @@
 
 ## 날짜 포멧
 
-커밋 메시지에 사용되는 날짜 포멧은 MM/DD/YYYY 입니다.
+커밋 메시지에 사용되는 날짜 포멧은 YYYY-MM-DD 입니다.
 
 [1]: https://school.programmers.co.kr/learn/challenges?order=recent
