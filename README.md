@@ -33,15 +33,16 @@
 리눅스 환경에서
 
 ```zsh
-./mk2folder.sh directoy_name
+./mk2folder.sh 문제이름
 ```
 
 명령어를 실행하여
 
 ```
-├── directoy_name/
-│ ├── directoy_name.py
-│ ├── directoy_name.md # 풀이 설명
+.
+├── 문제이름/
+│ ├── 문제이름.py
+│ └── 문제이름.md # 풀이 설명
 ```
 
 의 폴더 구조를 생성할 수 있습니다.
