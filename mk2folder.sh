@@ -10,7 +10,8 @@ if [ $# -eq 1 ]; then
 
     mkdir ${title}
     touch ${title}/${title}.py
-    echo "# [$1][1]" > ${title}/README.md
+    echo "# $1" > ${title}/README.md
+    echo "[코딩테스트 연습 - $1][1] 로 이동" >> ${title}/README.md
     echo "" >> ${title}/README.md
 
     echo "## 문제 설명" >> ${title}/README.md
